@@ -1,4 +1,4 @@
-🔗 Averra Links
+🔗 Averra Links 2/100
 
 I wanted to build something simple, clean and actually useful.
 
