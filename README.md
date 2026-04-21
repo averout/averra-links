@@ -1,16 +1,50 @@
-# React + Vite
+🔗 Averra Links
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I wanted to build something simple, clean and actually useful.
 
-Currently, two official plugins are available:
+So this is my version of a “link in bio” page —
+with a bit more focus on UI, animations and overall feel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Still learning, still experimenting, just shipping things one by one.
 
-## React Compiler
+what it does
+lets you create your own links page
+edit profile (name, bio, avatar)
+add / edit / delete links
+reorder links
+live preview on the side
+saves everything locally
+why I made it
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+trying to get better at:
 
-## Expanding the ESLint configuration
+building real UI (not default Tailwind look)
+working with state in React
+making things feel like actual products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+also just trying to stay consistent and build more.
+
+stack
+
+react + vite
+tailwind (v4 + @tailwindcss/vite)
+framer motion
+lucide icons
+
+run it
+git clone https://github.com/averout/averra-links.git
+cd averra-links
+npm install
+npm run dev
+next ideas
+drag & drop instead of buttons
+dark mode
+themes / colors
+public share page
+
+building this as part of a series.
+
+Averra Notes ✔️
+Averra Links ✔️
+
+more coming.
